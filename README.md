@@ -11,3 +11,5 @@ All boilerplate code managed by [express generator](https://expressjs.com/en/sta
 
 ## Screenshot
 <img src="public/img/screenshot.png">
+
+Dockerize the application
