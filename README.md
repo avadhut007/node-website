@@ -4,7 +4,6 @@
 1. docker build -t imagename:tag .
 
 2. docker run -d -p 8080:3000 <imagename:tag>
-
 Now go to url ```http://localhost:8080```
 -----------------------------------------------------------------------------------------
 
