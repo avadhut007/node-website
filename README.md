@@ -1,4 +1,9 @@
-# Build Simple Website with NodeJS, Express & EJS view engine
+## Dockerized the application
+Docker Build and Run Image:
+docker build -t <imagename:tag> .
+docker run -d -p <yourport>:3000 <imagename:tag>
+
+-----------------------------------------------------------------------------------------
 
 ## Document
 * Clone this repo: ``` git clone https://github.com/bhanushalimahesh3/node-website.git ```
@@ -12,4 +17,4 @@ All boilerplate code managed by [express generator](https://expressjs.com/en/sta
 ## Screenshot
 <img src="public/img/screenshot.png">
 
-## Dockerize the application
+
