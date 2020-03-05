@@ -1,7 +1,6 @@
 ## Dockerized the application
 #Docker Build and Run Image:
 docker build -t <imagename:tag> .
-
 docker run -d -p <yourport>:3000 <imagename:tag>
 
 -----------------------------------------------------------------------------------------
