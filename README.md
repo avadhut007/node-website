@@ -1,10 +1,11 @@
-## Dockerized the application
-#Docker Build and Run Image:
+# Dockerized the application
+## Docker Build and Run Image:
 
-docker build -t <imagename:tag> .
+1. docker build -t imagename:tag .
 
-docker run -d -p <yourport>:3000 <imagename:tag>
+2. docker run -d -p 8080:3000 <imagename:tag>
 
+Now go to url ```http://localhost:8080```
 -----------------------------------------------------------------------------------------
 
 ## Document
